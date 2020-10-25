@@ -1,3 +1,2 @@
 # wild-project
-Comment installer ce projet ?
-Il suffit, pour le moment, de le cloner. 
+Wild Code School solution: This repo is a solution to a specific challenge given to students during their training to become web developers.
